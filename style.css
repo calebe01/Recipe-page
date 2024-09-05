@@ -1,3 +1,4 @@
+
 :root{
     .alice-regular {
         font-family: "Alice", serif;
@@ -28,6 +29,7 @@ h1{
 h2{
     font-size: 24px;
 }
+
 h1,h2{
     color: #291B1A;
 }
